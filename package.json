@@ -1,5 +1,8 @@
 {
   "name": "playlernapackages",
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "lerna": "^3.4.0"
   }
