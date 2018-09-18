@@ -1,5 +1,6 @@
 {
-  "name": "playlernapackages",
+  "name": "@ivanyeoh/playlernapackages",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],

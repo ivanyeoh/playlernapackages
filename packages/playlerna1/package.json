@@ -1,5 +1,5 @@
 {
-  "name": "playlerna1",
+  "name": "@ivanyeoh/playlerna1",
   "version": "1.0.0",
   "main": "index.js",
   "unsafe-perm": true,
